@@ -19,6 +19,8 @@
   }
 
   &.stretch {
-    max-width: 100%;
+    &.stretch {
+      max-width: 100%;
+    }
   }
 }
